@@ -4,7 +4,7 @@
 * yum -y insatll wget
 
 ## ssr.sh
-* wget -N --no-check-certificate "ssr.sh url"
+* wget -N --no-check-certificate "https://github.com/Lorry0822/SS/raw/master/ssr_zh.sh"
 * chmod +x ssr.sh 
 * bash ssr.sh
 
